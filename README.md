@@ -3,42 +3,6 @@ sampling
 Project Name
 This is a website project for Daniel Njoroge. The project includes the development of a responsive website that showcases information about his church and provides resources for its members. The website is built using HTML, CSS, and JavaScript, and uses various third-party libraries and plugins for functionality.
 
-Project Structure
-The project directory is structured as follows:
-
-css :
-
-project/
-│
-├── css/
-│   ├── style.css
-│   └── [other CSS files]
-│
-├── images/
-│   ├── [image files]
-│   └── [other media files]
-│
-├── js/
-│   ├── script.js
-│   └── [other JavaScript files]
-│
-├── fonts/
-│   ├── [font files]
-│   └── [other font-related files]
-│
-├── index.html
-│
-├── about.html
-│
-├── blog.html
-│
-├── contact.html
-│
-├── resources.html
-│
-├── README.md
-│
-└── [other files]
 
 Dependencies
 The project uses the following third-party libraries and plugins:
